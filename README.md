@@ -226,7 +226,9 @@ clsDate/
 
 **Yousif Aljaberi**
 
-Software Engineer 
+* **GitHub:** [Yousef-Aljaberi](https://github.com/Yousef-Aljaberi)
+* **LinkedIn:** [Yousif Aljaberi](https://www.linkedin.com/in/yousif-aljaberi-004278408)
+
 
 ---
 
